@@ -7,7 +7,7 @@
 
 ![](https://pp.userapi.com/c834103/v834103456/8fa76/yZdZZD1i5Zw.jpg)
 
-## Интересы и увлечения :art:
+## Интересы и увлечения :books:
 * Играю на укулеле, записываю каверы и свои песни ([*nay-nay*](https://m.vk.com/naynayclub "группа с моим творчеством"))
 * Закончила музыкальную школу по классу хора
 * Учу французский, английский и немецкий языки
@@ -34,7 +34,7 @@ _Mais que faire si la mer la plus proche se trouve à milliers kilomètres de la
 
 _Inutile de chercher le sens dans toute chose. Il y a des questions sans réponses._
 
-## Контакты :envelope:
+## Контакты :telephone_receiver:
 * VK- [*Анастасия Миконова*](https://m.vk.com/pthtt)
 * Facebook- [*Anastasia Mikonova*](https://www.facebook.com/a.mikonova)
 * Telegram- [*Aurore*](https://t.me/auroredubois)
