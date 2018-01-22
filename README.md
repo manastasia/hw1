@@ -18,7 +18,7 @@ _L'éternité, ça te dit quoi?_
 _Je n'arrive pas vraiment à me situer dans cette espace énorme qui est l'univers, dans des années-lumière innombrables.
 On dit que chacun a sa place dans le monde. Alors, où est la mienne?_
 
-_La porte ouverte du réfrigérateur sonne dans la cuisine: "ti-li-donn, ti-li-donn". C'est ma mère qui cherche quelque chose là-dedans. Moi, je cherche les mots._
+_La porte ouverte du réfrigérateur sonne dans la cuisine: "ti-li-donne, ti-li-donne". C'est ma mère qui cherche quelque chose là-dedans. Moi, je cherche les mots._
 _Les mots m'échappent, il jouent avec moi à cache-cache. Peut-être le silence dira plus que tous les mots dans mon dictionnaire sur la table._
 
 _Parfois, il me semble que les oiseaux savent plus que nous._
@@ -38,11 +38,11 @@ _Inutile de chercher le sens dans toute chose. Il y a des questions sans répons
 * Telegram- [*Aurore*](https://t.me/auroredubois)
 ## Мое расписание занятий
 **№**|**Время**|**Понедельник**|**Вторник**|**Среда**|**Четверг**|**Пятница**
-:---:|---|:---:|:---:|:---:|:---:|:---:
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
 1.|09:00-10:20||Практика речи|Видео|Фонетика|Практика речи
-2|10:30-11:50||Практика речи|Грамматика|Немецкий|Немецкий
-3|12:10-13:30|Цифровая грамотность (семинар)||Грамматика|Немецкий|
-4|13:40-15:00|Цифровая грамотность (лекция)||||
-5|15:10-16:30|||НИС|Латынь|Немецкий (help room)
-6|16:40-18:00|||||ВКБ (лекция)
-7|18:10-19:30|||ВКБ (семинар)||
+2.|10:30-11:50||Практика речи|Грамматика|Немецкий|Немецкий
+3.|12:10-13:30|Цифровая грамотность (семинар)||Грамматика|Немецкий|
+4.|13:40-15:00|Цифровая грамотность (лекция)||||
+5.|15:10-16:30|||НИС|Латынь|Немецкий (help room)
+6.|16:40-18:00|||||ВКБ (лекция)
+7.|18:10-19:30|||ВКБ (семинар)||
