@@ -1,5 +1,5 @@
 # Обо мне
-![](http://resizepiconline.com/ssi/download.php?q=IMG_4597_500x718.jpg)
+![](https://pp.userapi.com/c824604/v824604456/95021/e-jg58iBjII.jpg)
 ## Основная информация
 * Миконова Анастасия Сергеевна
 * Дата рождения- 17.05.1999
