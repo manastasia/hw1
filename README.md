@@ -25,10 +25,10 @@ _Les mots m'échappent, il jouent avec moi à cache-cache. Peut-être le silence
 
 _Parfois, il me semble que les oiseaux savent plus que nous._
 
-> _"Elle est retrouvée.
+ _"Elle est retrouvée.
 Quoi? -L'éternité. 
 C'est la mer allée 
-Avec le soleil."_>
+Avec le soleil."_ 
                           _-a dit Rimbaud._
 _Mais que faire si la mer la plus proche se trouve à milliers kilomètres de la place où tu es coincée? Il ne reste qu'à ouvrir une application avec des caméras web et se contenter des paysages virtuels._
 
